@@ -28,7 +28,7 @@
 
 
 
-一、编程
+安装教程+环境搭建
 
     个人采用的是Python+Jupyter notebook+Pycharm。
 
@@ -36,7 +36,7 @@
 
     Python是人工智能的较好入门的一种语言，建议下载executable installer安装包。
 
-        下载地址：https://www.python.org/
+    下载地址：https://www.python.org/
 
     安装时，勾选add to path，即将Python添加到环境变量。安装好后，在命令行中运行python，检验是否添加到环境变量中。
 
@@ -46,7 +46,7 @@
 
     Jupyter Notebook（此前被称为 IPython notebook）是一个交互式笔记本，支持运行 40 多种编程语言。
 
-    安装：1、将pip升级到最新版本 命令行中输入pip install --upgrade pip  2、安装Jupyter Notebook 命令行中输入 pip install jupyter 
+    安装：1、更新pip 命令行中输入pip install --upgrade pip  2、安装Jupyter Notebook 命令行中输入 pip install jupyter 
 
     运行：1、命令行中输入jupyter notebook, 浏览器会自动启动Jupyter Notebook，注意不要关闭任何终端。
 
