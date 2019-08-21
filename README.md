@@ -71,7 +71,7 @@
               
     Python官方文档：https://docs.python.org/zh-cn/3/
     
-    Python风格与语言规范——Google开源项目风格指南（见Machine-learning的目录下）
+    Python风格与语言规范——Google开源项目风格指南：https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/contents/
     
     使用说明：
     
