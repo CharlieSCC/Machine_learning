@@ -81,9 +81,11 @@
 
     推荐资料：
     
-    利用Python进行数据分析（第二版）
+    利用Python进行数据分析（第二版）：见我上传发的PDF，含中英文两个版本。
     
-    利用Python进行数据分析（阅读笔记）
+    利用Python进行数据分析（阅读笔记）：见我follow的另一个repostories。 
     
     使用说明：
+    
+    建议结合书本，使用Jupter Notebook进行代码实现。
     
