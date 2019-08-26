@@ -89,3 +89,76 @@
     
     建议结合书本，使用Jupter Notebook进行代码实现。
     
+3）面向机器学习的特征工程
+
+    推荐资料：
+    
+    面向机器学习的特征工程：https://blog.csdn.net/Datawhale/article/details/83033869
+    
+4）Scikit-Learn 与 TensorFlow 机器学习实用指南
+
+    推荐资料：
+    
+    Scikit-Learn 与 TensorFlow 机器学习实用指南：https://github.com/ageron/handson-ml
+    
+    Scikit-Learn官方文档：https://sklearn.apachecn.org/docs/0.21.3/
+    
+    TensorFlow官方文档：https://github.com/jikexueyuanwiki/tensorflow-zh
+    
+二、理论
+
+1）机器学习理论
+    
+    机器学习基石
+    
+    推荐资料：
+    
+    视频：https://www.bilibili.com/video/av36731342
+    
+    笔记：https://redstonewill.com/category/ai-notes/lin-ml-foundations/
+    
+    机器学习技法
+    
+    推荐资料：
+    
+    视频：https://www.bilibili.com/video/av36760800
+    
+    笔记：https://redstonewill.com/category/ai-notes/lin-ml-techniques/
+    
+    机器学习
+    
+    推荐资料：
+    
+    读书笔记：https://www.cnblogs.com/limitlessun/p/8505647.html#_label0
+
+    公式推导：https://datawhalechina.github.io/pumpkin-book/#/
+
+    课后习题：https://zhuanlan.zhihu.com/c_1013850291887845376
+    
+    统计学习方法
+    
+    推荐资料：
+    
+    讲课PPT：https://github.com/fengdu78/lihang-code/tree/master/ppt
+    
+    读书笔记：https://github.com/SmirkCao/Lihang
+
+    代码实现：https://github.com/fengdu78/lihang-code/tree/master/code
+
+2）深度学习理论：
+
+    Deep Learning 
+    
+    推荐资料：
+    
+    视频地址：https://www.coursera.org/specializations/deep-learning
+    
+    课程笔记：https://github.com/fengdu78/deeplearning_ai_books
+    
+    课程PPT及课后作业：https://github.com/stormstone/deeplearning.ai
+    
+    深度学习 
+    
+    推荐资料：
+    
+    电子书：https://github.com/exacity/deeplearningbook-chinese
